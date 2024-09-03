@@ -48,9 +48,9 @@
 <h2>Certifications</h2>
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Rest API Testing (Automation) Java | Udemy (in progress)</li><strong>
-  <li><strong>Selenium Webdriver with Python + Frameworks | Udemy (in progress)</li><strong>
-  <li><strong>Manual Quality Assurance Course | Careerist</li><strong>
-  <li><strong>First Automation Test | Careerist</li><strong>
-  <li><strong>SQL Basics  | Careerist</li><strong>
-  <li><strong>API Testing | Careerist</li><strong>
+  <li><strong>Selenium Webdriver with Python + Frameworks | Udemy (in progress)<strong></li>
+  <li><strong>Manual Quality Assurance Course | Careerist<strong></li>
+  <li><strong>First Automation Test | Careerist<strong></li>
+  <li><strong>SQL Basics  | Careerist<strong></li>
+  <li><strong>API Testing | Careerist<strong></li>
   </ul>
