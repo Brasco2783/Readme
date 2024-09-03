@@ -25,7 +25,7 @@ Software QA Test Engineer with a strong foundation in ensuring the quality and f
 
 <h2>Professional Experience</h2>
 <ul style="font-family: Arial, sans-serif;">
-<li><strong>Manual QA Tester Orchestra<br>Dec 2023 – Present</strong></li>
+<p><strong>Manual QA Tester Orchestra<br>Dec 2023 – Present</strong></p>
 <li><strong>Reduce production bugs through comprehensive web and mobile testing on macOS, Windows, iOS, and Android platforms.</strong></li>
 <li><strong>Perform various testing methodologies to assess functionality and user interface, including initial checks, thorough investigations, and verification of existing features</strong></li>
 <li><strong>Utilized developer tools and Charles Proxy to retrieve and analyze response status codes.</strong></li>
@@ -36,7 +36,7 @@ Software QA Test Engineer with a strong foundation in ensuring the quality and f
 <br>
 
 
-<li><strong>Manual QA Tester Reelly<br>Aug 2023 – Dec 2023</strong></li>
+<p><strong>Manual QA Tester Reelly<br>Aug 2023 – Dec 2023</strong></p>
  <li><strong>Ensured cross-platform consistency through rigorous testing on various devices, browsers, and OS.</strong></li> 
  <li><strong>Collected log files for iOS and Android using Android Studio and Xcode.</strong></li> 
  <li><strong>Generated bug reports and monitored debugging processes in Jira.</strong></li> 
@@ -47,10 +47,10 @@ Software QA Test Engineer with a strong foundation in ensuring the quality and f
 
 <h2>Certifications</h2>
 <ul style="font-family: Arial, sans-serif;">
-  <li>Rest API Testing (Automation) Java | Udemy (in progress)</li>
-  <li>Selenium Webdriver with Python + Frameworks | Udemy (in progress)</li>
-  <li>Manual Quality Assurance Course | Careerist</li>
-  <li>First Automation Test | Careerist</li>
-  <li>SQL Basics  | Careerist</li>
-  <li>API Testing | Careerist</li>
+  <li><strong>Rest API Testing (Automation) Java | Udemy (in progress)</li><strong>
+  <li><strong>Selenium Webdriver with Python + Frameworks | Udemy (in progress)</li><strong>
+  <li><strong>Manual Quality Assurance Course | Careerist</li><strong>
+  <li><strong>First Automation Test | Careerist</li><strong>
+  <li><strong>SQL Basics  | Careerist</li><strong>
+  <li><strong>API Testing | Careerist</li><strong>
   </ul>
