@@ -6,7 +6,7 @@
   <hr>
 <h2>Summary</h2>
 <p style="font-family: Arial, sans-serif;">
-<strong>Software QA Test Engineer with a strong foundation in ensuring the quality and functionality of web and mobile applications. Experienced in conducting functional and GUI testing across various devices, browsers, and operating systems. Skilled in applying Agile/Scrum principles while delivering high-quality software with minimal errors. Proficient in collaborating with development teams and project management to align testing efforts with business objectives. Working Knowledge of Selenium WebDriver (Python), REST API testing, and SQL. Currently expanding my knowledge through courses in REST API Testing (Automation) with Java and Selenium WebDriver with Python + Frameworks on Udemy.<strong>
+<strong>Software QA Test Engineer with a strong foundation in ensuring the quality and functionality of web and mobile applications. Experienced in conducting functional and GUI testing across various devices, browsers, and operating systems. Skilled in applying Agile/Scrum principles while delivering high-quality software with minimal errors. Proficient in collaborating with development teams and project management to align testing efforts with business objectives. Working Knowledge of Selenium WebDriver (Python), REST API testing, and SQL. Currently expanding my knowledge through courses in REST API Testing (Automation) with Java and Selenium WebDriver with Python + Frameworks.<strong>
 
 <hr>
  
