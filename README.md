@@ -27,10 +27,11 @@
 <ul style="font-family: Arial, sans-serif;">
 <p><strong>Manual QA Tester Orchestra<br>Dec 2023 – Present</strong></p>
 <li><strong>Reduce production bugs through comprehensive web and mobile testing on macOS, Windows, iOS, and Android platforms.</strong></li>
-<li><strong>Perform various testing methodologies to assess functionality and user interface, including initial checks, thorough investigations, and verification of existing features</strong></li>
-<li><strong>Utilized developer tools and Charles Proxy to retrieve and analyze response status codes.</strong></li>
+<li><strong>Utilize Charles Proxy to diagnose network-level bugs and capture network logs.</strong></li>
 <li><strong>Create detailed QA test documentation for multiple app features.</strong></li>
- <li><strong>Employ Jira for efficient bug tracking and reporting.</strong></li> 
+<li><strong>Employ Jira for efficient bug tracking and reporting.</strong></li>
+<li><strong>Conduct exploratory, smoke, and regression testing on functional and UI aspects.</strong></li> 
+<li><strong>Analyze and capture HTTP response codes through browser developer tools.</strong></li> 
 
 
 <br>
